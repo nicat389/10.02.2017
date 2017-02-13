@@ -1,0 +1,126 @@
+.head{
+margin-left: 67;
+    margin-top: 9;
+}
+
+.logo{
+    width: 146;
+    height: 40;
+    
+}
+
+.ulToplinks{
+   margin-left: 900px;
+
+}
+
+.toplinks{
+    color: black;
+}
+
+.ulMenu{
+    list-style-type: none;
+    margin-top: 15px;
+    background: #151515;
+    padding: 20;
+}
+
+ul {
+
+  
+}
+li{
+    display: inline;
+    margin-left: 100px;
+color: white;
+font-size: 20;
+font-family: Calibri;
+}
+
+
+
+.menu{
+    transition:color 1s;
+    transform:translate(-5%);
+}
+.menu:hover{
+   color: #2E2E2E;
+}
+
+.square { margin-top:-150px; margin-left: 20px; width: 120px; height: 60; border:2px solid white ;
+transition:color 1s;
+    transform:translate(-5%);
+position: relative;
+}
+
+.square:hover{
+background: deepskyblue;
+
+}
+
+.buttons{
+    font-family: Arial;
+   color: white;
+
+}
+
+.clientLogo{
+    width: 80;
+    height: 40;
+    
+}
+
+.clientDiv{
+   background-color: rgba(5, 5, 0, 0.1);
+    padding: 10;
+   margin-top: 7.6%;
+    
+}
+
+.secondDiv{
+    margin-top: 0%;
+}
+
+.thirdDiv{
+        margin-top: 5%;
+}
+
+.thirdPart{
+    border-radius: 100%;
+
+    margin: 0px 20px;
+}
+
+.thirdPartText{
+     width: 270px;
+     font-family: Calibri;
+     font-size: 18px;
+     white-space: pre-line;
+     text-align: center;
+   
+}
+
+.thirdPartTextt{
+    width: 270px;
+     font-family: Calibri;
+     font-size: 18px;
+     white-space: pre-line;
+     text-align: center;
+   
+   display: inline-block;
+    text-indent: 2em;
+}
+
+.fourthDiv{
+    background-color: rgba(5, 5, 0, 0.9);
+    padding: 50px;
+}
+
+.feedbackText{
+    font-size: 18px;
+    font-family: Calibri;
+    color: rgba(60, 166, 255, 0.9);
+    
+    position: relative;
+
+}
