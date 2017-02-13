@@ -1,0 +1,45 @@
+﻿							Visual Code
+Visual Studio Code Linux, OS,Windows üçün Microsoft tərəfindən hazırlanmış source code editordur. Burada rahatlıq üçün kodları qısa yollarla yazmaq olar. Visual Studio CoreCLR 
+və ASP.NET 5-i inkişaf etdirmək üçün istifadə olunan text-editordur. Visual Studio Code bunları dəstələyir:
+Batch
+C++
+Clojure
+Coffee Script
+Dockerfile
+F#
+Go
+Jade
+Java
+HandleBars
+Ini
+Lua
+Makefile
+Objective-C
+Perl
+PowerShell
+Python
+R
+Razor
+Ruby
+Rust
+SQL
+Visual Basic
+XML
+Groovy
+Markdown
+PHP
+Swift
+CSS
+HTML
+JavaScript
+JSON
+Less
+Sass
+TypeScript
+C#
+Visual Code-da IDE  yoxdur, visual studio code text-editordur. Atom Text editorunun
+təməlində duran Electron node,js,HTML,CSS,javascript kimi standartlar cross-platform tətbiqləri təkmilləşdirməyə imkan verir. Burada yalnız 
+.NET tətbiqlər deyil, hər cür text yönümlü kodu yazmaq mümkündür.
+Visual Studio Code ilə Debug etmək mümkündür. Amma OS X və Unixdə hələki CoreCLR və ASP.NET 5 tətbiqlərini debug etmək mümkün deyil.
+Tətbiqləri çalışdırmaq üçün dnx əmrlərindən istifadə olunur. Command Pallette(F1) köməyilə istədiyimiz əmrləri çalışdıra bilərik. Visual Code da
+GitHub dəstəyi də var. 
